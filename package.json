@@ -1,0 +1,21 @@
+{
+  "name": "homework_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^7.20.2"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.20.2",
+    "@wdio/mocha-framework": "^7.20.0",
+    "@wdio/spec-reporter": "^7.20.0",
+    "chromedriver": "^102.0.0",
+    "wdio-chromedriver-service": "^7.3.2"
+  }
+}
